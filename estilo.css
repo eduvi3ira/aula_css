@@ -1,0 +1,19 @@
+body {
+    background:rgb(177, 177, 20);
+}
+p{
+    font-size: 50px;
+    font-family: 'Arial';
+    color: black;
+}
+p.formato{
+    color: red;
+    font-size: 50px;
+    font-family: 'Courier New';
+}
+.centro{
+    text-align: center;
+}
+h2,h3,h4,p{
+    color: royalblue;
+}
